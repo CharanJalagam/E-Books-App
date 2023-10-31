@@ -2,11 +2,11 @@
 Full-Stack Project
 
 Frontend : HTML, CSS , Bootstrap;                                                                                                                                                                                      
-Backend : JSP, SERVLETS,JSTL;
-Database : Mysql;
-Build Tool : Maven;
-IDE : Eclipse;
-Server : Tomcat;
+Backend : JSP, SERVLETS,JSTL;                                                                                                                                                                                      
+Database : Mysql;                                                                                                                                                                                      
+Build Tool : Maven;                                                                                                                                                                                                    
+IDE : Eclipse;                                                                                                                                                                                                         
+Server : Tomcat;                                                                                                                                                                                                       
 This project is a online book store where people can buy and sell books they can be new or old.
 ![Screenshot 2023-10-31 122901](https://github.com/CharanJalagam/E-Books-App/assets/119055149/48c18d60-6fd0-4c14-b82b-7f30cd031d93)
 ![Screenshot 2023-10-31 124822](https://github.com/CharanJalagam/E-Books-App/assets/119055149/628cb1fe-bead-4650-936c-dab03c646459)
